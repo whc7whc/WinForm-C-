@@ -1,0 +1,308 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|c:\\users\\jay\\desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\new\\windowsform\\windowsform\\class\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\class\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\member\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\member\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\member\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\member\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\member\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\member\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\calender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\album.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\page\\calender.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\page\\calender.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\member\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\member\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\class\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\class\\record.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\windowsform\\linq\\dbdemo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{01DE7499-1498-450A-905D-94F003DBBDEE}|WindowsForm\\WindowsForm.csproj|solutionrelative:windowsform\\linq\\dbdemo.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Search.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Search.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Search.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Search.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Search.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:27:15.217Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Member\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Member\\Login.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Member\\Login.cs",
+              "RelativeToolTip": "WindowsForm\\Member\\Login.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:16:06.915Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{131369f2-062d-44a2-8671-91ff31efb4f4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Calender.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.Designer.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Calender.Designer.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.Designer.cs",
+              "RelativeToolTip": "WindowsForm\\PAGE\\Calender.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:17:08.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Calender.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Calender.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:55:22.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Search.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Search.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Search.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Search.cs",
+              "RelativeToolTip": "WindowsForm\\PAGE\\Search.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAqwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T14:15:53.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\CLASS\\Account.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\CLASS\\Account.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\CLASS\\Account.cs",
+              "RelativeToolTip": "WindowsForm\\CLASS\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:13:29.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Member\\Login.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Member\\Login.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\Member\\Login.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\Member\\Login.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:19:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Member\\Register.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Member\\Register.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\Member\\Register.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\Member\\Register.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:07:06.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Album.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Album.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Album.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Album.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Album.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T03:47:21.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:17:48.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Form1.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Form1.cs",
+              "RelativeToolTip": "WindowsForm\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:17:51.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Album.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Album.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Album.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Album.cs",
+              "RelativeToolTip": "WindowsForm\\PAGE\\Album.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAuwFIAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T07:35:43.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Member\\Register.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\Member\\Register.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\Member\\Register.cs",
+              "RelativeToolTip": "WindowsForm\\Member\\Register.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T02:15:29.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Calender.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\PAGE\\Calender.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\PAGE\\Calender.cs",
+              "RelativeToolTip": "WindowsForm\\PAGE\\Calender.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAADwv4YAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T08:23:25.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Record.cs",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\CLASS\\Record.cs",
+              "RelativeDocumentMoniker": "WindowsForm\\CLASS\\Record.cs",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\CLASS\\Record.cs",
+              "RelativeToolTip": "WindowsForm\\CLASS\\Record.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T11:21:17.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbDemo.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\jay\\Desktop\\\u5168\u7AEF\u8AB2\u7A0B\\\u500B\u4EBA\u5C08\u984C\u88FD\u4F5C\\NEW\\WindowsForm\\WindowsForm\\LINQ\\dbDemo.edmx",
+              "RelativeDocumentMoniker": "WindowsForm\\LINQ\\dbDemo.edmx",
+              "ToolTip": "C:\\Users\\jay\\Desktop\\NEW\\WindowsForm\\WindowsForm\\LINQ\\dbDemo.edmx [Diagram1]",
+              "RelativeToolTip": "..\\..\\..\\..\\NEW\\WindowsForm\\WindowsForm\\LINQ\\dbDemo.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2025-05-29T10:41:56.649Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.props" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{01DE7499-1498-450A-905D-94F003DBBDEE}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsForm</RootNamespace>
+    <AssemblyName>WindowsForm</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.5.1\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.4.0, Culture=neutral, PublicKeyToken=8b9d14aa5142e261, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.4\lib\net48\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Krypton.Toolkit, Version=95.25.4.111, Culture=neutral, PublicKeyToken=a87e673e9ecb6e8e, processorArchitecture=MSIL">
+      <HintPath>..\packages\Krypton.Toolkit.95.25.4.111\lib\net48\Krypton.Toolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CLASS\Account.cs" />
+    <Compile Include="CLASS\Record.cs" />
+    <Compile Include="CLASS\Userphoto.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="CLASS\Userphoto.Designer.cs">
+      <DependentUpon>Userphoto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LINQ\dbDemo.Context.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDemo.Context.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LINQ\dbDemo.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDemo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="LINQ\dbDemo.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>dbDemo.edmx</DependentUpon>
+    </Compile>
+    <Compile Include="LINQ\tRecord.cs">
+      <DependentUpon>dbDemo.tt</DependentUpon>
+    </Compile>
+    <Compile Include="Member\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Member\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Member\Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Member\Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAGE\Album.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAGE\Album.Designer.cs">
+      <DependentUpon>Album.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAGE\Calender.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAGE\Calender.Designer.cs">
+      <DependentUpon>Calender.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PAGE\Search.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PAGE\Search.Designer.cs">
+      <DependentUpon>Search.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="CLASS\Userphoto.resx">
+      <DependentUpon>Userphoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Member\Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAGE\Album.resx">
+      <DependentUpon>Album.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAGE\Calender.resx">
+      <DependentUpon>Calender.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PAGE\Search.resx">
+      <DependentUpon>Search.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EntityDeploy Include="LINQ\dbDemo.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>dbDemo.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="LINQ\dbDemo.edmx.diagram">
+      <DependentUpon>dbDemo.edmx</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\702104f3bc2deb299c87f99fe50e4dfe.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1088a8df45a62beec8a138bd60930d30.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\c97be99e21b52ddef6df8110a9a53bdf.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="LINQ\dbDemo.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <LastGenOutput>dbDemo.Context.cs</LastGenOutput>
+      <DependentUpon>dbDemo.edmx</DependentUpon>
+    </Content>
+    <Content Include="LINQ\dbDemo.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>dbDemo.edmx</DependentUpon>
+      <LastGenOutput>dbDemo.cs</LastGenOutput>
+    </Content>
+    <None Include="Resources\4918933_explore_find_magnifier_magnifying glass_search_icon.png" />
+    <None Include="Resources\9022856_play_circle_duotone_icon.png" />
+    <None Include="Resources\9022645_minus_circle_duotone_icon.png" />
+    <None Include="Resources\9022891_rewind_circle_duotone_icon.png" />
+    <None Include="Resources\4567718_app_back_backwards_interface_play_icon.png" />
+    <None Include="Resources\9554497_next_direction_left_navigation_map_icon.png" />
+    <None Include="Resources\8703721_back_arrow_left_direction_navigation_icon.png" />
+    <None Include="Resources\8703720_next_arrow_right_navigation_direction_icon.png" />
+    <None Include="Resources\8725595_circle_icon %281%29.png" />
+    <None Include="Resources\185061_pictures_photo_icon.png" />
+    <None Include="Resources\93607c9e494729ed0e8df4d4ba2032a0.jpg" />
+    <None Include="Resources\65495e54958337166fd27220ee52e098.jpg" />
+    <None Include="Resources\103802_xml_document_icon.png" />
+    <None Include="Resources\115695_magnifying glass_zoom_find_search_icon.png" />
+    <None Include="Resources\9004673_trash_delete_bin_remove_icon.png" />
+    <None Include="Resources\9104189_replay_repeat_refresh_update_reload_icon %281%29.png" />
+    <None Include="Resources\9044416_face_add_icon %281%29.png" />
+    <None Include="Resources\9044416_face_add_icon.png" />
+    <None Include="Resources\838600ef998eeee2807fb1b9e0332a99.jpg" />
+    <None Include="Resources\c3dc3b394fe8aa69c5bead3b707c2514.jpg" />
+    <None Include="Resources\6df3b293533849e19799fa5d73ba5e4b.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>此專案參考這部電腦上所缺少的 NuGet 套件。請啟用 NuGet 套件還原，以下載該套件。如需詳細資訊，請參閱 http://go.microsoft.com/fwlink/?LinkID=322105。缺少的檔案是 {0}。</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.props'))" />
+    <Error Condition="!Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\EntityFramework.6.5.1\build\EntityFramework.targets'))" />
+  </Target>
+  <Import Project="..\packages\EntityFramework.6.5.1\build\EntityFramework.targets" Condition="Exists('..\packages\EntityFramework.6.5.1\build\EntityFramework.targets')" />
+</Project>

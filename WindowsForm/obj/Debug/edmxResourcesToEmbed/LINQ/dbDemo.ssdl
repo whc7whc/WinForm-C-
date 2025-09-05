@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="dbDemoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="tRecord">
+    <Key>
+      <PropertyRef Name="rId" />
+    </Key>
+    <Property Name="rId" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="account_id" Type="int" Nullable="false" />
+    <Property Name="rdate" Type="datetime" Nullable="false" />
+    <Property Name="rPhoto" Type="image" />
+    <Property Name="rTitle" Type="nvarchar(max)" Nullable="false" />
+    <Property Name="rContent" Type="nvarchar(max)" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="dbDemoModelStoreContainer">
+    <EntitySet Name="tRecord" EntityType="Self.tRecord" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
